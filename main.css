@@ -1,0 +1,10 @@
+.container {
+    display: block;
+    justify-content: center;
+    height: auto;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+}
